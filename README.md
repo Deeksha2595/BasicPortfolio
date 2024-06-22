@@ -10,7 +10,6 @@ Welcome to my first-ever complete portfolio webpage! This project showcases my j
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
-- [License](#license)
 
 ## Overview
 

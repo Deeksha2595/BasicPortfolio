@@ -61,4 +61,4 @@ Once you have opened the `index.html` file in your web browser, you will be able
 If you have any questions, suggestions, or would like to get in touch, feel free to contact me via the following:
 
 - **Email**: [Email Me](https://mail.google.com/mail/u/0/#inbox)
-- **Instagram**: [Instagram](https://www.instagram.com/uncannyyy9/)
+- **Instagram**: [Instagram](https://www.instagram.com/zuck)

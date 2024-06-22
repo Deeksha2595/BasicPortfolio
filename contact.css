@@ -1,0 +1,86 @@
+body {
+    padding: 20px;
+    font-family: "Young Serif", serif;
+    background-color: #f7e5e5;
+
+}
+.container{
+    margin: 20px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.sec-1 {
+    background-color: #B1AFFF;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+
+.sec-1__name {
+    font-size: 52px;
+}
+
+.sec-1 h2,
+.sec-1 a {
+    margin: 5px;
+}
+
+.sec-1__home {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #BBE9FF;
+    padding: 5px 10px;
+    color: darkmagenta;
+    border-radius: 5px;
+}
+.sec-6 {
+    background-color: #B1AFFF;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+.sec-6 a {
+    color: darkmagenta;
+    text-decoration: none;
+}
+
+.sec-6 {
+    margin: 10px;
+}
+
+.contact{
+    margin-top: 20px;
+}
+
+.contact__input,.contact__textarea,.contact__submit{
+    margin-top: 10px;
+}
+
+.contact__input{
+    padding: 5px;
+    border: none;
+    border-bottom: solid black 1px;
+    background-color: rgb(247, 244, 240);
+
+}
+
+.contact__textarea{
+    padding: 5px;
+    border: none;
+    border: solid black 1px;
+    background-color: rgb(247, 244, 240);
+
+}
+
+.contact__submit{
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    border: none;
+    border: solid black 1px;
+}
